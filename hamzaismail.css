@@ -2,4 +2,26 @@
 	padding: 10px 150px 10px 150px;
 	border-radius: 15px;
 	text-align: left;
+	box-sizing: 7px
+
+}
+
+p {
+  color: gray;
+}
+
+h1 {
+    color: orange;
+}
+
+h3 {
+	color: orange
+}
+
+h2 {
+	color: orange
+}
+
+h5 {
+	text-decoration: underline;
 }
